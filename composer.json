@@ -1,0 +1,19 @@
+{
+    "name": "tiagoandrepro/evolution-api-php-sdk",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tiagoandrepro\\EvolutionApi\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tiago André",
+            "email": "thiago_andre@live.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
